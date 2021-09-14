@@ -5,6 +5,7 @@
 - 💼 Currently working at @Quizizz as App Developer
 - 📱 Number of apps released on Play Store / App Store - 12
 - 📝 "Go big or go home!"
+- 👨‍💻 Experience with technologies - React-Native, Android, RubyOnRails, JAVA, iOS,  SQL, PSQL
 
 <!---
 SurajMDurgad/SurajMDurgad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
