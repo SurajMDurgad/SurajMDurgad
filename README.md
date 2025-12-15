@@ -1,9 +1,9 @@
 # 💫 About Me:
-🚀 Senior React Native Developer with 8+ years in mobile development
-📱 Led Quizizz app development, scaling to 100K -> 2M MAU and 500K -> 30M+ downloads
-🏍️ Built Royal Brothers bike rental app from scratch to 100K+ downloads
-📊 Creator of RAM Meter with 50K+ downloads
-✨ Focused on UX, scalability, and high-impact mobile solutions
+🚀 Senior React Native Developer with 8+ years in mobile development<br/>
+📱 Led Quizizz app development, scaling to 100K -> 2M MAU and 500K -> 30M+ downloads<br/>
+🏍️ Built Royal Brothers bike rental app from scratch to 100K+ downloads<br/>
+📊 Creator of RAM Meter with 50K+ downloads<br/>
+✨ Focused on UX, scalability, and high-impact mobile solutions<br/>
 
 
 ## 🌐 Socials:
