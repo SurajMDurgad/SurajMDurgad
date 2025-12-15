@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am a Senior React Native Developer with over 8 years of experience in mobile development for Android and iOS, specializing in React Native, JavaScript, Vue.js, and Ruby on Rails. My career highlights include leading development on the Quizizz app, where I implemented features like Paper Mode using React Native, helping scale the app to 2M monthly active users and achieving over 30M downloads. <br><br>At Royal Brothers, I built the bike rental app from scratch, boosting engagement and achieving 100K+ downloads.<br><br>I am also the creator of RAM Meter, an Android app with 50K+ downloads that monitors RAM usage, internet speed, and battery temperature in real time. My work combines technical expertise with a strong focus on user experience, scalability, and impactful solutions.
+🚀 Senior React Native Developer with 8+ years in mobile development
+📱 Led Quizizz app development, scaling to 100K -> 2M MAU and 500K -> 30M+ downloads
+🏍️ Built Royal Brothers bike rental app from scratch to 100K+ downloads
+📊 Creator of RAM Meter with 50K+ downloads
+✨ Focused on UX, scalability, and high-impact mobile solutions
 
 
 ## 🌐 Socials:
